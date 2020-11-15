@@ -33,14 +33,20 @@ For background formatting in css : https://developer.mozilla.org/en-US/docs/Web/
 when you open the heroku link: start page appears as follows:
 <img width="958" alt="start" src="https://user-images.githubusercontent.com/60499580/99187736-51670280-277e-11eb-8004-1b427fa673f8.png">
 immediately after clicking the start button you get an info box like this:
+
+
 <img width="507" alt="info box" src="https://user-images.githubusercontent.com/60499580/99187724-44e2aa00-277e-11eb-8d75-a69aceba4acc.png">
 
 
 you'll have a timer and when you answer a question correctly you will get it as follows:
+
+
 <img width="497" alt="ans" src="https://user-images.githubusercontent.com/60499580/99187715-3dbb9c00-277e-11eb-85ad-2a7e1cea33c3.png">
 
 
 If you answer a question wrong you will be shown the right answer and you may proceed to next one:
+
+
 <img width="512" alt="wrong ans" src="https://user-images.githubusercontent.com/60499580/99187741-575ce380-277e-11eb-9ec5-b537b2518e70.png">
 
 
