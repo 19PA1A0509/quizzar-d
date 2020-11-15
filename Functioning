@@ -1,0 +1,23 @@
+First, in the HTML file, you will be given a start button to start the quiz.
+later you will be given an infobox which says the instructions.
+and the theme of the web page is given through the CSS file.
+
+In this file;
+The background theme is selected.
+the font is selected for the page.
+The info-box, quiz container box, question box, option boxes, and next question box are dimensioned.
+Specific Text color for Title, question, and option buttons are given.
+
+In body:
+The format of question and options and next question buttons are given
+These questions are loaded from one javascript file and 
+The loading of questions is given in another javascript file.
+
+In this file :
+you can load the next question only if you answer the present one in the given time. Once the time is completed you will automatically be asked to go to the next question.
+If it's correct you get a point.
+And if it's wrong you will be shown the correct answer and the next one is loaded.
+you can't skip any of them.
+
+For the last question, you get a finish button instead of the next question button.
+And when you click finish after answering...You will get your score out of 15.
